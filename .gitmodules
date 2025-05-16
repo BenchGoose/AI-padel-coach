@@ -1,0 +1,3 @@
+[submodule "Jaoa-padel_analytics"]
+	path = Jaoa-padel_analytics
+	url = https://github.com/Joao-M-Silva/padel_analytics.git
